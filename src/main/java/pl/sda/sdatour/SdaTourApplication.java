@@ -1,4 +1,4 @@
-package pl.sda.project.sdatour;
+package pl.sda.sdatour;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
